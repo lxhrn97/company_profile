@@ -1,5 +1,5 @@
 {
-    "name": "rf-nodejs-company-profile",
+    "name": "company-profile",
     "version": "2025.09.05",
     "main": "app.js",
     "private": true,
